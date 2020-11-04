@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-**linin00/linin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+![](https://github.com/linin00/Judy/blob/main/Judy%20Alvarez.jpg?raw=true)
 - 🔭 I’m currently working on SJTU
 - 🌱 I’m currently learning C++、C、python、java
